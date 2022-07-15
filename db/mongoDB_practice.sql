@@ -39,4 +39,6 @@ db.food.find().sort({"name":-1})
  
  ------------------------
  
-  db.food.remove({name:"dosa"});
+  db.food.remove({name:"dosa"});  // documents removed based on the deletion criteria
+  
+  db.food.remove({});  // all documents will be removed
