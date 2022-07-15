@@ -29,3 +29,12 @@ db.food.find().sort({"name":-1})
  db.food.findOne({name:'chicken pizza'})
  
   db.food.update({'name':'chicken pizza'},{$set:{toppings: 'tomato'}})
+
+------------------save------------------
+> db.food.save({ "name" : "chicken pizza", "level" : "moderate","toppings":'olives'})
+//above is without id, so new documen is created.
+
+--------------save with id , existing doc is replaced-----------------
+ db.food.save({ "_id" : ObjectId("62d1138c6926b0f6c3ac14c2"), "name" : "dosa", "level" : "spicy","total":3,"price":5});
+ 
+ ------------------------
