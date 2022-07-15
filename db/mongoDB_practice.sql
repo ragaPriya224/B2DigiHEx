@@ -11,3 +11,6 @@ db.dropdatabase;
  show collections;
  db.createCollection('vacation' );
  db.food.insert({name:"briyani",level:"highly spicy"})
+ 
+ -------drop collection------------
+  db.vacation.drop();
