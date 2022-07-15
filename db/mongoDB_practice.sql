@@ -38,3 +38,5 @@ db.food.find().sort({"name":-1})
  db.food.save({ "_id" : ObjectId("62d1138c6926b0f6c3ac14c2"), "name" : "dosa", "level" : "spicy","total":3,"price":5});
  
  ------------------------
+ 
+  db.food.remove({name:"dosa"});
