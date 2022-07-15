@@ -14,3 +14,14 @@ db.dropdatabase;
  
  -------drop collection------------
   db.vacation.drop();
+--------------
+db.food.find();
+db.food.insert([{name:"pav bhaji"},{name:"dosa",level:"mild"},{name:"aaa",age:5,school:"kdjlkd"} ]);
+try insert many as wsell
+db.food.find().pretty();
+db.food.find().limit(3);
+
+db.food.find().skip(2);
+
+ db.food.find().limit(2).skip(2);
+ -------------------
