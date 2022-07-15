@@ -26,3 +26,6 @@ db.food.find().skip(2);
  db.food.find().limit(2).skip(2);
  -------------------
 db.food.find().sort({"name":-1})
+ db.food.findOne({name:'chicken pizza'})
+ 
+  db.food.update({'name':'chicken pizza'},{$set:{toppings: 'tomato'}})
