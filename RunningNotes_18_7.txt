@@ -3,3 +3,16 @@ Online Transaction processing -> OLTP
 http://helloworldcollection.de/
 
 https://www.youtube.com/watch?v=ZuDmSzORI0Y
+-------------------------------]
+Javajdk -> Java Development Kit
+IDE -> interated Development Environment 
+
+.java
+.java file structure ?
+1. package
+2.      class 
+3.            method
+
+pkg ->shop, class -> section
+method ->diff choice cpny,size,rate
+
