@@ -15,4 +15,22 @@ IDE -> interated Development Environment
 
 pkg ->shop, class -> section
 method ->diff choice cpny,size,rate
+-----------------------
+
+
+print your name
+print your name and id in separate lines
+print your name and id in same line
+add 3+3
+print , your college name 
+print hello 123
+ Write a Java program to divide two numbers and print on the screen.
+print below
+      The addition of 10 and 20 is:
+        30
+Welcome
+To
+CodingWorld
+
+------------------
 
