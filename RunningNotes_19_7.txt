@@ -16,10 +16,10 @@ https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
  2. without intialization, don't use that variable 
  3. java is casesensitive
  4. 
+-----------------------------
 
-
-
-
+type []var-name = new type [size];
+https://pythontutor.com/java.html
 
 
 
