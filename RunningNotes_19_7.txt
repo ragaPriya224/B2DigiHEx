@@ -1,1 +1,9 @@
 https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
+
+ JRE + JDK + JVM
+ 
+ JRE ->  Java RunTime Environment
+ JDK ->  Java Development Kit
+ JVM ->  Java Virtual machine 
+ developer = develop +testing  = JDK 
+ client = testing    = JRE 
