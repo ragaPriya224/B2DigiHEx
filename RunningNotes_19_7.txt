@@ -10,6 +10,12 @@ https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
  
  byte   <short< int <long 
  float <  double 
+ 
+ 
+ 1. duplicate localv ariable not allowed
+ 2. without intialization, don't use that variable 
+ 3. java is casesensitive
+ 4. 
 
 
 
