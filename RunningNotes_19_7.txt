@@ -7,3 +7,22 @@ https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
  JVM ->  Java Virtual machine 
  developer = develop +testing  = JDK 
  client = testing    = JRE 
+ 
+ byte   <short< int <long 
+ float double 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
