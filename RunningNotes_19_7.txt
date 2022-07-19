@@ -9,7 +9,7 @@ https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
  client = testing    = JRE 
  
  byte   <short< int <long 
- float double 
+ float <  double 
 
 
 
