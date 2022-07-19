@@ -21,7 +21,9 @@ https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
 type []var-name = new type [size];
 https://pythontutor.com/java.html
 
+https://www.w3schools.com/java/java_ref_string.asp
 
+https://www.w3schools.com/java/java_strings.asp
 
 
 
