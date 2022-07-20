@@ -1,0 +1,9 @@
+Syntax for ternary 
+condition ? expression1 : expression2;
+
+
+https://twitter.com/java/status/1184685214640926721
+
+++ -> increment 
+-- -> decrement 
+Post./pre
