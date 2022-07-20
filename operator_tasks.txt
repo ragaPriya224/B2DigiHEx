@@ -9,3 +9,8 @@ System.out.println (a++);
 System.out.println (a--);
 System.out.println (--a);
 System.out.println (++a);
+
+
+
+// if it's saturday or sunday, i have to print it's weekend ;)
+        // if it's other days, i have to print, it's weekday :( 
