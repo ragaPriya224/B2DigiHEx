@@ -10,3 +10,33 @@ Post./pre
 
 
 https://www.w3schools.com/java/java_operators.asp
+
+------------------------
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+https://www.w3schools.com/java/java_switch.asp
+----------------
+for(initialization; condition; increment/decrement){    
+//statement or code to be executed    
+}    
+
+-----------------
+while (condition) {
+  // code block to be executed
+}
+
+---------------
+
+do {
+  // code block to be executed
+}
+while (condition);
+----------------
