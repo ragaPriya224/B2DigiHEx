@@ -14,3 +14,11 @@ System.out.println (++a);
 
 // if it's saturday or sunday, i have to print it's weekend ;)
         // if it's other days, i have to print, it's weekday :( 
+        --------------------------------------
+  using for loop, print numbers from 1 to 10
+using for loop, print numbers from 10 to 1
+using for loop, print numbers from 15 to 10
+store your name  in a variable and print it 3 times 
+using do while loop, and print numbers 1 to 5
+use while loop, and print numbers 1 to 5
+
