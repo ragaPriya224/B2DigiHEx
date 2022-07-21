@@ -79,3 +79,12 @@ Create a class with a method that prints "This is parent class" and its subclass
 2 - method of child class by object of child class
 3 - method of parent class by object of child class
 ----------------------------
+Write a program to check if the word 'orange' is present in the "This is orange juice".
+------------------------
+Write a program to find the first and the last occurence of the letter 'o' and character ',' in "Hello, World".
+-------------------
+Write a program to check if the letter 'e' is present in the word 'Umbrella'.
+-------------
+
+Assign values of variables 'a' and 'b' as 55 and 70 respectively and then check if both the conditions 'a < 50' and 'a < b' are true.
+-----------------------
