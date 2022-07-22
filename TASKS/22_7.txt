@@ -1,0 +1,8 @@
+Create a friend class,
+ bestfriend class should be child of friend class 
+
+
+in friend , create a method toEat(), and give some food items,
+in bestfriend , override that method and give any other food implementation.   
+u have to call the toEat method from bestfriend object and check output
+-----------------------------------------------------
