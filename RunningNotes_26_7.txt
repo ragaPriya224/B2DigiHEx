@@ -19,3 +19,28 @@ By default, methods are public
 
 
 // u can implement any number of interfaces, but only one class, u can extend
+----------------------
+
+Exception:
+
+In most cases, exceptions are caused by our program,  and these are recoverable 
+Eg:
+
+London 
+
+local file ->
+
+
+try{
+// read data from a remote file @london file 
+} catch(filenotfoundexception e ){
+// use local file and continue 
+}
+
+ERROR:
+
+* lack of resources
+* mostly not caused by our program,s but due to lack of resources
+non recoverable
+
+Eg: out of memory error 
