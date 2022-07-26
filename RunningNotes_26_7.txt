@@ -53,5 +53,30 @@ CheckedException:
  unchecked exception:
   exceptions that are not checked by compiler for smooth execution of code 
 Eg: arithmetic  exception
- 
+ ----------------------------
+ try{
+s1;
+s2;
+s3;
+ try{
+ s4;
+ s5;
+ s6;
+ }
+ catch(x e){
+ s7;
+ }
+ finally{
+ s8;
+ }
+ s9;
+}
+catch(Y e){
+s10;
+}
+finally{
+s11;
+}
+s12;
+--------------
  
