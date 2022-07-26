@@ -44,3 +44,14 @@ ERROR:
 non recoverable
 
 Eg: out of memory error 
+
+CheckedException:
+
+ exceptions that are checked by compiler for smooth execution of code 
+ Eg: filenotfound exception
+ 
+ unchecked exception:
+  exceptions that are not checked by compiler for smooth execution of code 
+Eg: arithmetic  exception
+ 
+ 
