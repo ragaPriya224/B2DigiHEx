@@ -1,0 +1,7 @@
+1. abstract method, doesn't have a method body . 
+in interface:
+ketyword: implements
+
+100% abstraction using interface only
+By default, methods are abstract 
+By default, methods are public 
