@@ -118,7 +118,29 @@ treeset
  FIFO
  priority blocking
  
+       all above, representing group of individual obbjects
+key , value pair 
+a -> 21
+b -> 35
 
+7. map(I)
+-> duplicate key is not allowed 
+-> not child interface of collection 
+
+map -> hashtable -> properties    -> legacy class
+	  hashmap -> LinkedHashMap
+ 	  weakhashmap,
+  	  identity hashmap 
+
+8. sorted map(I)
+represent -> keyvalue pair according to some sorting order
+
+map -> sortedmap -> navigable map -> treemap 
+
+9. navigable map (I)
+1. child of sorted map
+2. several utility methods for navigation purpose
+_______________________________________________________
 
 
     
