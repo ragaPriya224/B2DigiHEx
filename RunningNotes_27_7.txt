@@ -166,3 +166,6 @@ ArrayList al = new ArrayList(100);
 https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
     
  
+ best: retrieval 
+worst : insertion/deletion X
+https://www.w3schools.com/java/java_arraylist.asp
