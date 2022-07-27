@@ -1,0 +1,29 @@
+drawbacks :
+int []foodArray = new int[1000];
+
+1. homogenous data elements 
+2. size is 10. which mean size is fixed.
+3. no readymade ds
+
+Student[] s = new Student[1000];
+1. fixed size
+2. Homogenous data students 
+s[1] = new Customer[];
+
+Object[] a = new Object[1000];
+a[0] = new Student[];
+a[1] = new Customer[];
+
+
+
+int[] a = new int[5]; //size is fixed
+		a[2] = 3; //no underlying DS is present.
+//		a[0] = "89"; //heterogenous not allowed 
+
+solution is collection concept
+-=-----------------------------------
+1. Growable in size
+		2. heterogenous datas allowed 
+//		3.  underlying DS is present.
+//		4. memory too good, performance not upto mark
+//		5. can't hold primitive data types
