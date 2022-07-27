@@ -30,13 +30,96 @@ solution is collection concept
 
 
  Collection -> represent group of individual object in a single entity. 
- 9 key interface- >
- 1. collection 
- 2. list
- 3. set 
- 4. sorted set
- 5. navigable set
- 6. queue
- 7. map
- 8. sorted map
- 9. navigable map 
+ 
+ Collection Framework
+
+  contains several classes, and interfaces ,  which can be used for represent a group of individual objects as a single entity
+   old concept, used in another languages
+   
+ KEY Interface ->  9 
+---------------
+1. collection(I)
+2. List(I) 
+3. set(I)
+4. sortedSet(I)
+5. navigableSet(I)
+6. queue(I)
+7. map (I)
+8. sortedMap(I)
+9. navigableMap(I)
+
+// dress shop -> unique items
+// grocery shop -> duplicate items
+// hotel -> burger & coke 
+// hotel -> menu card-> price and food item
+
+1. collection (I)
+
+Root interface
+defines most common methods for any collection object
+there is no concrete class that implements the collection interface
+
+2. List I
+-> dup ok, same order of insertion 
+-> child of collection (I)
+
+
+Collection 
+|
+List
+|
+ArrayList   LinkedList Vector Stack (old/legacy classes )
+
+
+3.set (I)
+
+-> dup not ok, insertion order will not be maintained 
+-> dress / jewellery example 
+
+Collection 
+|
+Set
+|
+HashSet LinkedHashSet
+
+4.  sortedSet(I)
+
+
+Collection 
+|
+Set
+|
+SortedSet
+|
+
+treeset 
+
+-> duplicates not allowed
+-> inserted according to some sorting order
+ 
+ 
+ 5. navigableSet(I)
+
+
+Collection 
+|
+Set
+|
+SortedSet
+|
+navigableset
+|
+treeset 
+
+-> defines several methods for navigation purposes
+
+6. queue
+ represent group of objects before processing 
+ FIFO
+ priority blocking
+ 
+
+
+
+    
+ 
