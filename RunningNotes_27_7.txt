@@ -27,3 +27,16 @@ solution is collection concept
 //		3.  underlying DS is present.
 //		4. memory too good, performance not upto mark
 //		5. can't hold primitive data types
+
+
+ Collection -> represent group of individual object in a single entity. 
+ 9 key interface- >
+ 1. collection 
+ 2. list
+ 3. set 
+ 4. sorted set
+ 5. navigable set
+ 6. queue
+ 7. map
+ 8. sorted map
+ 9. navigable map 
