@@ -142,6 +142,27 @@ map -> sortedmap -> navigable map -> treemap
 2. several utility methods for navigation purpose
 _______________________________________________________
 
+collection in depth 
 
+1.  https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+
+Arraylist:
+
+dup ok
+ins ok 
+heterogenous datas
+null insertion possible 
+DS: resizable/growable array 
+initial capacity of ten.
+
+
+Constructor:
+
+ArrayList al = new ArrayList();
+ArrayList al = new ArrayList(100);
+
+
+
+https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
     
  
