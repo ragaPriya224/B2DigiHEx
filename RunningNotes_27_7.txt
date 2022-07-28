@@ -204,7 +204,7 @@ worst   insesrtion/deletion      retrieval
 SET(I)
 
 
-ET:
+SET:
 child interface of collectio 
 dup no
 ins order not maintained
@@ -216,5 +216,42 @@ hetero data
 constructors: https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
 Load Factor -> After loading how much factor, a new hashset object will be created. That is called as load factor
 
+LinkedHashSet
 
+1. dup not allowed 
+2. insertion order will be maintained
+
+Underlying DS: hashtable +linkedlist
+version ->1.4version 
+----------------------
+	   Hashset		   LinkedHashSet
+dup        no 		    	   no 
+insorder   no                      yes preserved 
+DS         hashtable               hashtable +linkedList
+---------------------------------------------------------
+sorted set
+child interface of set
+represent group of individual according to some sorting order 
+duplicate -> no
+
+method specific:
+
+first()
+last()
+headSet()
+tailSet()
+subset()
+comparator()
+---------------------------------------
+Treeset
+
+ds: balanced tree
+dup no
+ins order no
+sorting order ok
+heterogenous no 
+null is possible, only once 
+
+4 constructor
+--------------
 
