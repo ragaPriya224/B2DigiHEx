@@ -1,0 +1,13 @@
+String:
+
+IF content is fixed and won't change frequently, we can go for string 
+
+StringBuffer
+
+If content is not fixed, keep on changing but thread safety is required
+
+
+StringBuilder
+
+If content is not fixed, keep on changing but thread safety is NOT required
+
