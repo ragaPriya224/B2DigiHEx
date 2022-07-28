@@ -255,3 +255,47 @@ null is possible, only once
 4 constructor
 --------------
 
+map done 
+-=---------------------------------------------------
+
+cursors -> retrieve object one by one
+
+1. enumeration -> legacy 
+2. iterator
+3. list iterator
+4. split iterator
+
+2. iterator:
+universal cursor
+read , remove 
+
+
+hasNext();
+next();
+remove();
+
+Disadv: 
+1. no backward
+2. no add, replace
+
+
+3. listiterator
+
+bi-directional iteration.
+add, replace, 
+
+
+
+
+hasNext();
+next();
+nextIndex();
+remove();
+
+hasPrevious();
+previous();
+previousindex();
+
+set(object c);
+add 
+
