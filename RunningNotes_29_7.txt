@@ -1,0 +1,16 @@
+==  reference/address comparison
+.equals()  content comparison
+
+
+
+
+----------------------------
+
+
+
+
+static control flow
+
+1. identification of static members from top to bottom
+2. execution of static variable assignments and static blocks from top to bottom
+3. main method execution 
