@@ -1,0 +1,14 @@
+
+POM.xml
+
+my group id is com.metro.train
+
+
+POM ->project object model 
+
+
+paper -> store -> u gave it to mom
+pom.xml -> maven repository -> give it to us 
+
+First, check whether it's present in your local
+If not present, it will download from maven repo 
