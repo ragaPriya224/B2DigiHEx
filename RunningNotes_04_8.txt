@@ -1,0 +1,3 @@
+Skeleton ->html
+beautify(muscles) -> css
+activity(walk, eat sleep) ->js
