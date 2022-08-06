@@ -1,3 +1,11 @@
-h1{
-    background-color: aquamarine;
+h1,h2{
+    background-color: blanchedalmond;
+}
+
+#hero{
+    background-color: brown;  
+}
+
+.textColor{
+    color: darkviolet; 
 }
