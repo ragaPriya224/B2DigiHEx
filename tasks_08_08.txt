@@ -1,0 +1,60 @@
+Problem:
+Write a function called “addFive”.
+Given a number, “addFive” returns 5 added to that number.
+
+Input:
+addFive(5);
+addFive(0);
+addFive(-5);
+Output:
+10
+5
+0
+
+var num = 10;
+function addFive(num) { 
+
+}
+var result = addFive(num)
+----------------------------------
+Problem:
+Write a function called “getOpposite”.
+Given a number, return its opposite
+Input:
+getOpposite(5);
+getOpposite(0);
+getOpposite(-5);
+getOpposite(“5a”);
+getOpposite(5.5);
+Output:
+-5
+0
+5
+-1
+-1
+
+
+var num = 5;
+function getOpposite(num) {
+}
+var result = getOpposite(num)
+
+
+---------------------------------------
+Fill in your code that takes an number minutes and converts it to seconds.
+Examples
+toSeconds(5) ➞ 300
+toSeconds(3) ➞ 180
+toSeconds(2) ➞ 120
+
+var min = 5;
+function toSeconds(min) {
+}
+var secs = toSeconds(min)
+
+
+
+
+
+
+
